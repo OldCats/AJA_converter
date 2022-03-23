@@ -1,0 +1,7 @@
+name: BeautifulSoup
+channels:
+  - defaults
+dependencies:
+  - pip
+  - pip:
+    - bs4
